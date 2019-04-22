@@ -50,3 +50,14 @@ button:hover {
   font-size: 20px;
   font-style: italic;
 }
+
+img {
+  margin: auto;
+  padding: 10px;
+}
+
+p {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+}
